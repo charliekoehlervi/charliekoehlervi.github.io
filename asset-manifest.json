@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1ad4b52.css",
+    "main.js": "/static/js/main.8b75deb3.js",
+    "static/js/787.2f857d6b.chunk.js": "/static/js/787.2f857d6b.chunk.js",
+    "static/media/bmw-ts-1.png": "/static/media/bmw-ts-1.5fe62fd3fff04bb15358.png",
+    "static/media/car-repair.jpg": "/static/media/car-repair.d877326f991a6f7a1006.jpg",
+    "static/media/bmw1.jpg": "/static/media/bmw1.3a940d6b8f20b2df1fe2.jpg",
+    "static/media/engine-maint.jpg": "/static/media/engine-maint.ada9e332b60e9384e306.jpg",
+    "static/media/stp-team1.jpg": "/static/media/stp-team1.5d9083219df86f85ae1c.jpg",
+    "static/media/bmw-rear.jpg": "/static/media/bmw-rear.7e4a541fda362f20cc69.jpg",
+    "static/media/detail.jpg": "/static/media/detail.11556ee671218a7a0420.jpg",
+    "static/media/cars-hero.jpg": "/static/media/cars-hero.1f0e3bba7e3c798e6b6e.jpg",
+    "static/media/aftermkt.jpg": "/static/media/aftermkt.00326b04198b2f191611.jpg",
+    "static/media/stp-team2.jpg": "/static/media/stp-team2.baae114aa7fdf9592fda.jpg",
+    "static/media/custom-builds.jpg": "/static/media/custom-builds.0bd031629fbbe3b3cad5.jpg",
+    "static/media/yt.png": "/static/media/yt.c8b96203bc8a0d24c7fb.png",
+    "static/media/ig.png": "/static/media/ig.160458d3dc488ae40946.png",
+    "static/media/dg-logo.png": "/static/media/dg-logo.3e648edbaa3f525312ca.png",
+    "static/media/tt.png": "/static/media/tt.194d754b4d97a795d944.png",
+    "static/media/fb.png": "/static/media/fb.f72c10a2e47f0756584f.png",
+    "index.html": "/index.html",
+    "main.d1ad4b52.css.map": "/static/css/main.d1ad4b52.css.map",
+    "main.8b75deb3.js.map": "/static/js/main.8b75deb3.js.map",
+    "787.2f857d6b.chunk.js.map": "/static/js/787.2f857d6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ad4b52.css",
+    "static/js/main.8b75deb3.js"
+  ]
+}
