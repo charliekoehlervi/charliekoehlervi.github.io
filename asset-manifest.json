@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.09ee0859.css",
+    "main.css": "/static/css/main.32821b54.css",
     "main.js": "/static/js/main.8b75deb3.js",
     "static/js/787.2f857d6b.chunk.js": "/static/js/787.2f857d6b.chunk.js",
     "static/media/bmw-ts-1.png": "/static/media/bmw-ts-1.5fe62fd3fff04bb15358.png",
@@ -20,12 +20,12 @@
     "static/media/tt.png": "/static/media/tt.194d754b4d97a795d944.png",
     "static/media/fb.png": "/static/media/fb.f72c10a2e47f0756584f.png",
     "index.html": "/index.html",
-    "main.09ee0859.css.map": "/static/css/main.09ee0859.css.map",
+    "main.32821b54.css.map": "/static/css/main.32821b54.css.map",
     "main.8b75deb3.js.map": "/static/js/main.8b75deb3.js.map",
     "787.2f857d6b.chunk.js.map": "/static/js/787.2f857d6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09ee0859.css",
+    "static/css/main.32821b54.css",
     "static/js/main.8b75deb3.js"
   ]
 }
