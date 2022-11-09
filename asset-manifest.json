@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.179a5b69.css",
-    "main.js": "/static/js/main.69822aea.js",
+    "main.css": "/static/css/main.36ad1656.css",
+    "main.js": "/static/js/main.aa55213a.js",
     "static/js/787.791c9844.chunk.js": "/static/js/787.791c9844.chunk.js",
-    "static/media/cryo-bg.jpg": "/static/media/cryo-bg.24e37c8d5c314dd33588.jpg",
-    "static/media/hex-bg.jpg": "/static/media/hex-bg.d728bb0ae9c56e2fc5d0.jpg",
-    "static/media/dghq-bg.jpg": "/static/media/dghq-bg.b3d6003490818ae53f79.jpg",
+    "static/media/cryo-bg.jpg": "/static/media/cryo-bg.dc2a111d222a7562bc44.jpg",
+    "static/media/hex-bg.jpg": "/static/media/hex-bg.0483e376c01366c98c70.jpg",
+    "static/media/dghq-bg.jpg": "/static/media/dghq-bg.542a94056ad06e56be4f.jpg",
     "static/media/breeze.mp4": "/static/media/breeze.3900d6d4b78259720eb5.mp4",
-    "static/media/mort-bg.jpg": "/static/media/mort-bg.922d55d6b8fd938c719c.jpg",
+    "static/media/mort-bg.jpg": "/static/media/mort-bg.cf96d79dcd54e7e764a8.jpg",
     "index.html": "/index.html",
-    "main.179a5b69.css.map": "/static/css/main.179a5b69.css.map",
-    "main.69822aea.js.map": "/static/js/main.69822aea.js.map",
+    "main.36ad1656.css.map": "/static/css/main.36ad1656.css.map",
+    "main.aa55213a.js.map": "/static/js/main.aa55213a.js.map",
     "787.791c9844.chunk.js.map": "/static/js/787.791c9844.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.179a5b69.css",
-    "static/js/main.69822aea.js"
+    "static/css/main.36ad1656.css",
+    "static/js/main.aa55213a.js"
   ]
 }
